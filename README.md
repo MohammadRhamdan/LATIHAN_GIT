@@ -1,2 +1,2 @@
-# LATIHAN_GIT
-Latihan git dengan WPU UNPAS
+# RESOLUSI
+future process to master the programmer
