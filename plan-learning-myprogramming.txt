@@ -4,3 +4,4 @@ PLAN LEARNING PROGRAMMING
 3. every day watch 1 youtube vedio about programming
 4. master the javascript programming language and reactJS framework
 5. master the javascript at 1 month
+6. master the reading english language
