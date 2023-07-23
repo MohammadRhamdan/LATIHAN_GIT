@@ -5,4 +5,5 @@ PLAN LEARNING PROGRAMMING
 5. master the javascript at 1 month
 6. master the reading english language
 7. Learning framework Angular
-8. Learning framework Golang
+8. Learning Framework reactJS at 1 month
+9. Learning English at least 1 hours a day 
